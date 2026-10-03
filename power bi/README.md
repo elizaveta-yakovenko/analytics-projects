@@ -5,8 +5,8 @@
 
 # Что реализовано
 
-— подготовка данных в Power Query (типы, группировка возраста, отбор полных строк); \n
-— меры: Total Sets, Total Groups, Avg Age, Avg Price, Avg Pieces;
-— срезы по группе, серии и возрасту;
+— подготовка данных в Power Query (типы, группировка возраста, отбор полных строк). 
+— меры: Total Sets, Total Groups, Avg Age, Avg Price, Avg Pieces. 
+— срезы по группе, серии и возрасту. 
 — дерево декомпозиции category → themeGroup → theme → name;
 — таблица наборов с динамическими данными
